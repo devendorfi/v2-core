@@ -13,6 +13,8 @@ The following assumes the use of `node@>=10`.
 
 ## Install Dependencies
 
+I am adding some text
+
 `yarn`
 
 ## Compile Contracts
